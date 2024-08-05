@@ -5,7 +5,7 @@
 
 # Features
 
--Login/ Sign up
+- Login/ Sign up
     - Sign In/ Sign Up form
     - redirect to browse page
 
