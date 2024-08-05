@@ -5,6 +5,8 @@
 - Header
 - Login Form
 - Sign Up form
+- create React app
+- configured tailwind css
 
 # Features
 
@@ -16,9 +18,9 @@
     - Header
     - Main Movie 
         - Trailer in background
-        - Titile and Suggestion
+        - Title and Suggestion
         - Movie Suggestions 
             - MovieLists * N
     - NetFlixGPT
-        - searchBar
-        - Movie Sugeestions
+        - search bar
+        - Movie Suggestions
