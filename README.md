@@ -5,8 +5,7 @@
 - Header
 - Login Form
 - Sign Up form
-- create React app
-- configured tailwind css
+
 
 # Features
 
