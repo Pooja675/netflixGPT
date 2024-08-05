@@ -1,11 +1,11 @@
 # Netflix GPT 
 
-- create react app
+- create React app
 - configured tailwind css
 
 # Features
 
--Login/ Sign up
+- Login/ Sign up
     - Sign In/ Sign Up form
     - redirect to browse page
 
@@ -13,9 +13,9 @@
     - Header
     - Main Movie 
         - Trailer in background
-        - Titile and Suggestion
+        - Title and Suggestion
         - Movie Suggestions 
             - MovieLists * N
     - NetFlixGPT
-        - searchBar
-        - Movie Sugeestions
+        - search bar
+        - Movie Suggestions
