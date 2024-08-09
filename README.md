@@ -28,6 +28,12 @@
 - Update store with trailer vedio data
 - Embedded youtube vedio & make it autoplay and mute
 - Tailwind css to make MainContainer awesome 
+- Build Secondary component
+- Build Movie List
+- Build ovie Card
+- TMDB image CDN URL 
+- Made browse page amazing with tailwid css
+- usePopularMovies, useTopRatedMovies, useUpComingMovies custom hooks
 
 
 
